@@ -1,0 +1,2 @@
+# hive
+Stores hive query
